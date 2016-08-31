@@ -1,0 +1,14 @@
+{
+	"appname": "Test0831",
+	"scope": "BuyerAdmin FullAccess",
+	"clientid": "6429F402-7033-4CE5-B4F6-9D07EB27E364",
+	"buyerid": null,
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
